@@ -1,6 +1,6 @@
 ---
 title: "Assignment 01: Set up"
-author: Your name
+author: Massimiliano Porto
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: 
   bookdown::pdf_document2:
